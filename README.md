@@ -4,15 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Anshu%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Backend%20Specialist%20%7C%20PHP%20%7C%20Laravel&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+CodeIgniter+4;React+JS+%7C+Vue+JS+%7C+JavaScript;Building+Scalable+Web+Solutions;2%2B+Years+of+Professional+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+CodeIgniter+4;React+JS+%7C+Vue+JS+%7C+JavaScript;Building+Scalable+Web+Solutions;3%2B+Years+of+Professional+Experience" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Profile Badges -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=anshukumarak&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AnshukumarAk&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 <a href="mailto:kumaranshu07972@gmail.com"><img src="https://img.shields.io/badge/Email-kumaranshu07972%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anshu-kumar-685b58231/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anshu-kumar-b749762a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnshukumarAk"><img src="https://img.shields.io/badge/GitHub-AnshukumarAk-6366f1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -104,12 +105,12 @@ const anshu = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshukumarak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=a1a1aa" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshukumarak&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshukumarAk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=a1a1aa" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshukumarAk&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshukumarak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=a1a1aa" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshukumarAk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=a1a1aa" />
 
 </div>
 
@@ -117,7 +118,7 @@ const anshu = {
 
 <!-- Activity Graph -->
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshukumarak&bg_color=0D1117&color=6366f1&line=6366f1&point=f97316&area=true&area_color=6366f1&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshukumarAk&bg_color=0D1117&color=6366f1&line=6366f1&point=f97316&area=true&area_color=6366f1&hide_border=true" />
 </div>
 
 ---
@@ -128,7 +129,8 @@ const anshu = {
 <div align="center">
 
 <a href="mailto:kumaranshu07972@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anshu-kumar-685b58231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anshu-kumar-b749762a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnshukumarAk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://instagram.com/@anshu_upadhyay_1003"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://indevconsultancy.com/"><img src="https://img.shields.io/badge/Company-Indev_Consultancy-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
