@@ -35,7 +35,7 @@ const anshu = {
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🏢 Currently working at **[Indev Consultancy Pvt Ltd](https://indevconsultancy.com/)**
-- 🚀 Building **[Meghdoot E Krishi](https://meghdoot.indevconsultancy.com/)** - Smart Agriculture Platform
+- 🚀 Building **[Meghdoot E Krishi](https://meghdoot.info/)** - Smart Agriculture Platform
 - 💻 Specializing in **PHP, Laravel, CodeIgniter 4 & REST APIs**
 - 🌐 Experienced in **React JS, Vue JS & Real-time WebSocket**
 - 🗄️ Expert in **MySQL Database Design & Optimization**
